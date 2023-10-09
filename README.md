@@ -1,4 +1,4 @@
-# MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions
+# 𝐌𝐗-𝟒𝟏𝟎𝟏-𝐆𝐫𝐨𝐮𝐩-𝟓-𝐏𝐫𝐚𝐭𝐢𝐜𝐞-𝐨𝐟-𝐓𝐞𝐱𝐭-𝐌𝐚𝐭𝐡-𝐚𝐧𝐝-𝐋𝐨𝐠𝐢𝐜𝐚𝐥-𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
 Basic Text, Math, and Logical Functions are highlighted in this section along with information on how to utilize and manipulate them in Microsoft Excel. Every definition of a function includes a reference to its syntax.
