@@ -3,7 +3,7 @@
 
 Basic Text, Math, and Logical Functions are highlighted in this section along with information on how to utilize and manipulate them in Microsoft Excel. Every definition of a function includes a reference to its syntax.
 
-𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+#### 𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
 Excel is mostly about numerical data, but at times you can come across data that has too much text and that's the time when Text Functions in Excel will help you to simplify things easily.
 
@@ -161,7 +161,7 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
      =𝘊𝘖𝘕𝘊𝘈𝘛𝘌𝘕𝘈𝘛𝘌(𝘵𝘦𝘹𝘵1, [𝘵𝘦𝘹𝘵2, … 𝘵𝘦𝘹𝘵_𝘯])
    
-𝐁. 𝐌𝐀𝐓𝐇 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+#### 𝐁. 𝐌𝐀𝐓𝐇 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
   B.1. ABS
 
@@ -431,7 +431,7 @@ Note: SUM can handle up to 255 individual arguments
 
     =𝘛𝘙𝘜𝘕𝘊(𝘯𝘶𝘮𝘣𝘦𝘳, [𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴])
 
-𝐂. 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+#### 𝐂. 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
 A LOGICAL FUNCTION is one that evaluates an expression and returns a Boolean result.
 
