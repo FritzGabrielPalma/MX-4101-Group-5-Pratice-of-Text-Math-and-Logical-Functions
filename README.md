@@ -311,8 +311,8 @@ Usage Scenarios:
 > -> The Excel SUM function returns the sum of the supplied.
 >
 > -> These values can be numbers, cell references, ranges, arrays, and constants, in any combination.
-
-Note: SUM can handle up to 255 individual arguments
+>
+> Note: SUM can handle up to 255 individual arguments
 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
@@ -321,15 +321,15 @@ Note: SUM can handle up to 255 individual arguments
 
   B.16. MEDIAN
 
--> The MEDIAN is the middle value in a group of numbers, separating the higher half of values from the lower half.
-
--> For example, in the group of values (1, 2, 3, 4, 7} the median is 3. In the dataset (1, 2, 2, 3, 4, 7) the median is 2.5
-
-4 Facts You Should Know about Excel Median
-1. When the total number of values is odd, the Excel MEDIAN function returns the middle number in the data set. When the total number of values is even, it returns an average of the two middle numbers.
-2. Cells with zero values (0) are included in calculations.
-3. Empty cells as well as cells containing text and logical values are ignored.
-4. The logical values of TRUE and FALSE typed directly in the MEDIAN function's arguments are counted. For example, the formula MEDIAN(FALSE, TRUE,2,3,4) returns 2, which is the median of the numbers (0, 1, 2, 3, 4).
+> -> The MEDIAN is the middle value in a group of numbers, separating the higher half of values from the lower half.
+>
+> -> For example, in the group of values (1, 2, 3, 4, 7} the median is 3. In the dataset (1, 2, 2, 3, 4, 7) the median is 2.5
+>
+> 4 Facts You Should Know About Excel Median
+> 1. When the total number of values is odd, the Excel MEDIAN function returns the middle number in the data set. When the total number of values is even, it returns an average of the two middle numbers.
+> 2. Cells with zero values (0) are included in the calculations.
+> 3. Empty cells as well as cells containing text and logical values are ignored.
+> 4. The logical values of TRUE and FALSE typed directly in the MEDIAN function's arguments are counted. For example, the formula MEDIAN(FALSE, TRUE,2,3,4) returns 2, which is the median of the numbers (0, 1, 2, 3, 4).
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -337,9 +337,9 @@ Note: SUM can handle up to 255 individual arguments
 
   B.17. LARGE
 
--> The Excel LARGE function returns numeric values based on their position in a list when sorted by value.
-
--> In other words, it can retrieve "nth largest" values largest value, 2nd largest value, 3rd largest value, etc.
+> -> The Excel LARGE function returns numeric values based on their position in a list when sorted by value.
+>
+> -> In other words, it can retrieve "nth largest" values largest value, 2nd largest value, 3rd largest value, etc.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -347,9 +347,9 @@ Note: SUM can handle up to 255 individual arguments
 
   B.18. SMALL
 
--> The Excel SMALL function returns numeric values based on their position in a list ranked by value.
-
--> In other words, it can retrieve "nth smallest" values smallest value, 2nd smallest value, 3rd smallest value, etc.
+> -> The Excel SMALL function returns numeric values based on their position in a list ranked by value.
+>
+> -> In other words, it can retrieve "nth smallest" values smallest value, 2nd smallest value, 3rd smallest value, etc.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -357,12 +357,11 @@ Note: SUM can handle up to 255 individual arguments
 
   B.19. PRODUCT
 
--> The Excel PRODUCT function returns the product of numbers provided as arguments.
-
--> The PRODUCT function is helpful when multiplying many cells together.
-
--> The formula =PRODUCT(A1:A3) is the same as =A1*A2"A3.
-
+> -> The Excel PRODUCT function returns the product of numbers provided as arguments.
+>
+> -> The PRODUCT function is helpful when multiplying many cells together.
+>
+> -> The formula =PRODUCT(A1:A3) is the same as =A1*A2"A3.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -370,9 +369,9 @@ Note: SUM can handle up to 255 individual arguments
 
   B.20. SUBTOTAL
 
--> The Excel SUBTOTAL function returns an aggregate result for supplied values.
-
--> SUBTOTAL can return a SUM, AVERAGE, COUNT, MAX, and others (see table below), and the SUBTOTAL function can either include or exclude values in hidden rows.
+> -> The Excel SUBTOTAL function returns an aggregate result for supplied values.
+>
+> -> SUBTOTAL can return a SUM, AVERAGE, COUNT, MAX, and others (see table below), and the SUBTOTAL function can either include or exclude values in hidden rows.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -380,9 +379,9 @@ Note: SUM can handle up to 255 individual arguments
 
   B.21. CEILING & FLOOR
   
--> The Excel CEILING function rounds a given number up to the nearest specified multiple.
-
--> The Excel FLOOR function rounds a given number down to the nearest specified multiple.
+> -> The Excel CEILING function rounds a given number up to the nearest specified multiple.
+>
+> -> The Excel FLOOR function rounds a given number down to the nearest specified multiple.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -392,36 +391,40 @@ Note: SUM can handle up to 255 individual arguments
 
   B.22. EVEN & ODD
   
--> The Excel EVEN function returns the next even integer after rounding a given number up.
-
--> The EVEN function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative)
+> -> The Excel EVEN function returns the next even integer after rounding a given number up.
+>
+> -> The EVEN function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative)
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘝𝘌𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
 
--> The Excel ODD function returns the next odd integer after rounding a given number up.
-
--> The ODD function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative).
+> -> The Excel ODD function returns the next odd integer after rounding a given number up.
+>
+> -> The ODD function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative).
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘖𝘋𝘋(𝘯𝘶𝘮𝘣𝘦𝘳)
 
   B.23. ROUND & TRUNC
-  
--> The Excel ROUND function returns a number rounded to a given number of digits.
--> The ROUND function can round to the right or left of the decimal point.
+>> ROUND
+>> 
+>> -> The Excel ROUND function returns a number rounded to a given number of digits.
+>>
+>> -> The ROUND function can round to the right or left of the decimal point.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘖𝘜𝘕𝘋(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴)
 
--> The Excel TRUNC function returns a truncated number based on an (optional) number of digits.
-
--> For example, TRUNC(4.9) will return 4, and TRUNC(-3.5) will return -3.
-
--> The TRUNC function does no rounding, it simply truncates alspecified.
+>> TRUNC
+>> 
+>> -> The Excel TRUNC function returns a truncated number based on an (optional) number of digits.
+>>
+>> -> For example, TRUNC(4.9) will return 4, and TRUNC(-3.5) will return -3.
+>>
+>> -> The TRUNC function does no rounding, it simply truncates alspecified.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -437,7 +440,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.1. IF
 
--> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE
+> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -445,7 +448,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.2. AND
 
--> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
+> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -453,7 +456,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.3. OR
 
--> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
+> -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -461,7 +464,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.4. NOT
 
--> The Microsoft Excel NOT function is used to check if one value is not equal to another If we give TRUE, it will return FALSE, and when given FALSE, it will return TRUE.
+> -> The Microsoft Excel NOT function is used to check if one value is not equal to another If we give TRUE, it will return FALSE, and when given FALSE, it will return TRUE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -469,9 +472,9 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.5. XOR
 
--> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
-
--> For two given logical statements, the XOR function would return TRUE if one of the statements is true and FALSE if both statements are true. If neither of the statements is true, it also returns FALSE.
+> -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
+>
+> -> For two given logical statements, the XOR function would return TRUE if one of the statements is true and FALSE if both statements are true. If neither of the statements is true, it also returns FALSE.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -479,7 +482,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.6. ISBLABK
 
--> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
+> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -487,9 +490,9 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.7. IFERROR
 
--> The Microsoft Excel IFERROR function returns an alternate value if a formula results in an error.
-
--> It will check for errors such as #N/A, #VALUE!, #REF!, #DIV/O!, #NUMI, #NAME? or #
+> -> The Microsoft Excel IFERROR function returns an alternate value if a formula results in an error.
+>
+> -> It will check for errors such as #N/A, #VALUE!, #REF!, #DIV/O!, #NUMI, #NAME? or #
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -497,7 +500,7 @@ Most, if not all, logical functions check a condition and render a result.
 
   C.8. IFNA
 
--> The IFNA function in Excel returns an alternate value as specified by the user if a formula results in an #N/A error.
+> -> The IFNA function in Excel returns an alternate value as specified by the user if a formula results in an #N/A error.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
