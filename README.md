@@ -17,7 +17,7 @@ Usage Scenarios:
 
   A.1. LEN
 
-  The Microsoft Excel TRIM function returns the length of the specified string.  
+> The Microsoft Excel TRIM function returns the length of the specified string.  
 
   𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -25,7 +25,7 @@ Usage Scenarios:
 
   A.2. TRIM
   
-  The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between words in a string.
+>  The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between words in a string.
 
   𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -33,15 +33,15 @@ Usage Scenarios:
   
   A.3. UPPER
 
-  The Microsoft Excel UPPER function allows you to convert text to all uppercase.
+>  The Microsoft Excel UPPER function allows you to convert text to all uppercase.
 
-  𝑺𝒚𝒏𝒕𝒂𝒙
+𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
   
   A.4. LOWER
 
-  The Microsoft Excel UPPER function allows you to convert text to all lowercase.
+ > The Microsoft Excel UPPER function allows you to convert text to all lowercase.
 
   𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -49,7 +49,7 @@ Usage Scenarios:
   
   A.5. PROPER
 
-  The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
+>  The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
 
    𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -57,7 +57,7 @@ Usage Scenarios:
    
   A.6. SUBSTITUTE
 
-  The Microsoft Excel SUBSTITUTE function replaces a set of characters with another.
+>  The Microsoft Excel SUBSTITUTE function replaces one set of characters with another.
 
    𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -65,17 +65,17 @@ Usage Scenarios:
    
   Parameters
   
-  -> text - The original string to use to perform the substitution
-  
-  -> old_text - The existing characters to replace
- 
-  -> new_text - The new characters to replace old_text with. 
- 
-  -> nth_appearance Optional It is the nth appearance of the old_text that you wish to replace. If this parameter is omitted, then every occurrence of old_text will be replaced with test text
+>  -> text - The original string to use to perform the substitution
+>
+> -> old_text - The existing characters to replace
+>
+> -> new_text - The new characters to replace old_text with.
+>
+> -> nth_appearance Optional It is the nth appearance of the old_text that you wish to replace. If this parameter is omitted, then every occurrence of old_text will be replaced with test text
 
   A.7. REPLACE
 
-  The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
+>  The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
 
    𝑺𝒚𝒏𝒕𝒂𝒙
    
@@ -83,18 +83,18 @@ Usage Scenarios:
    
   Parameters
   
-  -> old_ text - The original string value.
-  
-  -> start - The position in old_text to begin replacing characters.
-  
-  -> number_of_chars - The number of characters to replace in old text
-  
-  -> new_text - The replacement set of characters
+> -> old_ text - The original string value.
+>
+> -> start - The position in old_text to begin replacing characters.
+>
+> -> number_of_chars - The number of characters to replace in old text
+>
+> -> new_text - The replacement set of characters
 
 
   A.8. FIND
 
-  The Microsoft Excel FIND function returns the location of a substring in a string. The search is case-sensitive
+>  The Microsoft Excel FIND function returns the location of a substring in a string. The search is case-sensitive
 
    𝑺𝒚𝒏𝒕𝒂𝒙
   
@@ -102,15 +102,15 @@ Usage Scenarios:
    
   Parameters
   
- ->  substring - The substring that you want to find
-  
-  -> string - The string to search within.
-  
-  -> start_position - Optional. It is the position in the string where the search will start. The first position is 1. If the start_position is not provided, the FIND function will start the search at the beginning of the string
+>  ->  substring - The substring that you want to find
+>
+> -> string - The string to search within.
+>
+> -> start_position - Optional. It is the position in the string where the search will start. The first position is 1. If the start_position is not provided, the FIND function will start the search at the beginning of the string
   
   A.9. LEFT
 
-  The Microsoft Excel LEFT function allows you to extract a substring from a string, starting from the leftmost character.
+>  The Microsoft Excel LEFT function allows you to extract a substring from a string, starting from the leftmost character.
 
    𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -118,28 +118,27 @@ Usage Scenarios:
 
   Parameters
  
-  -> text - The string that you wish to extract from.
-  
-  -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character, If this parameter is omitted, only 1 character is returned.
+>  -> text - The string that you wish to extract from.
+>
+> -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character, If this parameter is omitted, only 1 character is returned.
 
   A.10. RIGHT
 
-  The Microsoft Excel RIGHT returns the last character or characters in a text string, based on the number of characters you specify.
+>  The Microsoft Excel RIGHT returns the last character or characters in a text string, based on the number of characters you specify.
 
    𝑺𝒚𝒏𝒕𝒂𝒙
-
 
     =𝘙𝘐𝘎𝘏𝘛(𝘵𝘦𝘹𝘵,[𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴])
   
   Parameters
   
-  -> text - The string that you wish to extract from.
-  
-  -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character. If this parameter is omitted, only 1 character is returned
+>  -> text - The string that you wish to extract from.
+>
+> -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character. If this parameter is omitted, only 1 character is returned
 
   A.11. MID
 
-  The Microsoft Excel MID function extracts a substring from a string (starting at any position).
+>  The Microsoft Excel MID function extracts a substring from a string (starting at any position).
 
    𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -147,15 +146,15 @@ Usage Scenarios:
    
    Parameters
   
-  -> text - The string that you wish to extract from.
-  
-  -> start_position - The position in the string that you will begin extracting from. The first position in the string is 1. 
-  
-  -> number_of_characters - The number of characters that you wish to extract. It is mandatory when the MID function is used as a Worksheet function, but optional in VBA. (if you omit this parameter in VBA, the MID function will return all characters after the start_position.)
+>  -> text - The string that you wish to extract from.
+>
+> -> start_position - The position in the string that you will begin extracting from. The first position in the string is 1.
+>
+> -> number_of_characters - The number of characters that you wish to extract. It is mandatory when the MID function is used as a Worksheet function, but optional in VBA. (if you omit this parameter in VBA, the MID function will return all characters after the start_position.)
 
   A.12. CONCATENATE
 
-The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
+>   The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
 
    𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -165,7 +164,7 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.1. ABS
 
--> The ABS (Absolute Value) function in Excel returns the absolute value of a number. In other words: the ABS function removes the minus sign ( - ) from a negative number, making it
+> -> The ABS (Absolute Value) function in Excel returns the absolute value of a number. In other words: the ABS function removes the minus sign ( - ) from a negative number, making it
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -173,13 +172,13 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.2. SIGN
 
--> The Excel SIGN function returns the sign of a number as +1, 1, or 0.
-
--> If the number is greater than zero, the SIGN function will return 1.
-
--> If the number is equal to zero, the SIGN function will return 0.
-
--> If the number is less than zero, the SIGN function will return 1
+> -> The Excel SIGN function returns the sign of a number as +1, 1, or 0.
+>
+> -> If the number is greater than zero, the SIGN function will return 1.
+>
+> -> If the number is equal to zero, the SIGN function will return 0.
+>
+> -> If the number is less than zero, the SIGN function will return 1
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -187,9 +186,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.3. GCD
 
--> GCD (Greatest Common Divisor) function is used to get the greatest common divisor of two or more integers.
-
--> The greatest common divisor is the largest positive integer that divides the numbers without a remainder.
+> -> GCD (Greatest Common Divisor) function is used to get the greatest common divisor of two or more integers.
+>
+> -> The greatest common divisor is the largest positive integer that divides the numbers without a remainder.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -197,9 +196,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.4. LCM
 
--> The LCM (Least Common Multiple) Function Calculates the least common multiple between two or more numbers.
-
--> The least common multiple is the smallest integer that can be divided by all the numbers provided.
+> -> The LCM (Least Common Multiple) Function Calculates the least common multiple between two or more numbers.
+>
+> -> The least common multiple is the smallest integer that can be divided by all the numbers provided.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -207,9 +206,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.5. POWER
 
--> The Excel POWER function returns a number to a given power.
-
--> The POWER function works like an exponent in a standard math equation.
+> -> The Excel POWER function returns a number to a given power.
+>
+> -> The POWER function works like an exponent in a standard math equation.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -217,10 +216,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.6. SQRT
 
-->  The Excel SQRT function returns the square root of a positive number.
-
-->  SORT returns an error if the number is negative.
-
+> ->  The Excel SQRT function returns the square root of a positive number.
+>
+> ->  SORT returns an error if the number is negative.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -228,7 +226,7 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.7. QUOTIENT
 
--> The Excel QUOTIENT function returns the result of integer division without remainder. 
+> -> The Excel QUOTIENT function returns the result of integer division without remainder. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -236,12 +234,11 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.8. MOD
 
--> The Excel MOD function returns the remainder of two numbers after division.
-
--> For example, MOD(10,3) = 1.
-
--> The result of MOD carries the same sign as the divisor.
-
+> -> The Excel MOD function returns the remainder of two numbers after division.
+>
+> -> For example, MOD(10,3) = 1.
+>
+> -> The result of MOD carries the same sign as the divisor.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -249,9 +246,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.9. AVERAGE
 
--> The Excel AVERAGE function calculates the average (arithmetic mean) of supplied numbers.
-
--> AVERAGE can handle up to 255 individual arguments, which can include numbers, cell references, ranges, arrays, and constants.
+> -> The Excel AVERAGE function calculates the average (arithmetic mean) of supplied numbers.
+>
+> -> AVERAGE can handle up to 255 individual arguments, which can include numbers, cell references, ranges, arrays, and constants.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -259,7 +256,7 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.10. AVERAGE w/ criteria
 
--> To calculate an average with criteria, use AVERAGEIF for single criteria or AVERGAEIFS for multiple criteria.
+> -> To calculate an average with criteria, use AVERAGEIF for single criteria or AVERGAEIFS for multiple criteria.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -267,9 +264,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.11. COUNT
   
--> The Excel COUNT function returns the count of values that are numbers, generally cells that contain numbers.
-
--> Values can be supplied as constants, cell references, or ranges.
+> -> The Excel COUNT function returns the count of values that are numbers, generally cells that contain numbers.
+>
+> -> Values can be supplied as constants, cell references, or ranges.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -277,10 +274,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.12. COUNTA
 
--> The Excel COUNTA function returns the count of cells that contain numbers, text, logical values, error values, and empty text (" ").
-
--> COUNTA does not count empty cells.
-
+> -> The Excel COUNTA function returns the count of cells that contain numbers, text, logical values, error values, and empty text (" ").
+>
+> -> COUNTA does not count empty cells.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -288,11 +284,11 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.13. COUNTBLANK
 
--> The Excel COUNTBLANK function returns a count of empty cells in a range.
-
--> Cells that contain text, numbers, errors, etc. are not counted 
-
--> Formulas that return empty text are counted.
+> -> The Excel COUNTBLANK function returns a count of empty cells in a range.
+>
+> -> Cells that contain text, numbers, errors, etc. are not counted
+>
+> -> Formulas that return empty text are counted.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -300,9 +296,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.14. MIN & MAX
 
--> The MIN function can be used to return the smallest value from a set of data.
-
-->  The MAX function returns the largest value from a supplied set of numeric values.
+> -> The MIN function can be used to return the smallest value from a set of data.
+>
+> ->  The MAX function returns the largest value from a supplied set of numeric values.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -312,9 +308,9 @@ The Microsoft Excel CONCATENATE function allows you to join 2 or more strings to
 
   B.15. SUM
   
--> The Excel SUM function returns the sum of the supplied.
-
--> These values can be numbers, cell references, ranges, arrays, and constants, in any combination.
+> -> The Excel SUM function returns the sum of the supplied.
+>
+> -> These values can be numbers, cell references, ranges, arrays, and constants, in any combination.
 
 Note: SUM can handle up to 255 individual arguments
 
