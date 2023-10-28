@@ -470,6 +470,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
+> ![IF](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ab41a034-6afc-49be-9166-91fef2980a83)
 
   C.2. AND
 
@@ -478,6 +479,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
+> ![AND](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/2ef230d3-cbce-4dd0-b39e-f54d231327ed)
 
   C.3. OR
 
@@ -486,6 +488,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
+> ![OR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/adcb0551-388c-4008-85ee-20a2e95c326e)
 
   C.4. NOT
 
@@ -494,6 +497,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘕𝘖𝘛(𝘭𝘰𝘨𝘪𝘤𝘢𝘭)
+> ![NOT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/792b0647-8487-466a-b8fd-087687d558c9)
 
   C.5. XOR
 
@@ -504,6 +508,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
+> ![XOR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a2241e27-4df3-4244-8789-e0090027a5fe)
 
   C.6. ISBLABK
 
@@ -512,6 +517,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
+> ![ISBLANK](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/351376d3-5b55-4bd5-b574-a7d7f8d4856e)
 
   C.7. IFERROR
 
@@ -522,6 +528,7 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍𝘌𝘙𝘙𝘖𝘙 (𝘷𝘢𝘭𝘶𝘦, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘦𝘳𝘳𝘰𝘳) 
+> ![IFERROR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/12a0b988-1905-4522-bbba-1b86d71e0a7f)
 
   C.8. IFNA
 
@@ -530,5 +537,6 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘐𝘍𝘕𝘈(𝘷𝘢𝘭𝘶𝘦, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘯𝘢)  
+> ![IFNA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/6b3d038d-10b4-4969-a8a1-ac34d6fb2a5b)
 
 
