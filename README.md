@@ -403,9 +403,10 @@ Usage Scenarios:
     =𝘍𝘓𝘖𝘖𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘯𝘤𝘦)
 
     =𝘊𝘌𝘐𝘓𝘐𝘕𝘎(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘯𝘤𝘦)
+> ![CEILING AND FLOOR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/45ac9fad-c9cb-4491-ab2c-1d016d755272)
 
   B.22. EVEN & ODD
-  
+> EVEN  
 > -> The Excel EVEN function returns the next even integer after rounding a given number up.
 >
 > -> The EVEN function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative)
@@ -413,7 +414,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘝𝘌𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![EVEN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/88f098bc-15f8-4486-8645-a287f1e5eb3b)
 
+> ODD
 > -> The Excel ODD function returns the next odd integer after rounding a given number up.
 >
 > -> The ODD function always rounds numbers up (away from zero) so positive numbers become larger and negative numbers become smaller (i.e. more negative).
@@ -421,6 +424,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘖𝘋𝘋(𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![ODD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/f4cffd2f-1971-4932-ba1f-1b767b30aa26)
 
   B.23. ROUND & TRUNC
 >> ROUND
@@ -428,10 +432,11 @@ Usage Scenarios:
 >> -> The Excel ROUND function returns a number rounded to a given number of digits.
 >>
 >> -> The ROUND function can round to the right or left of the decimal point.
-
+>>
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘖𝘜𝘕𝘋(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴)
+>> ![ROUND](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8edaa066-357d-45eb-9a83-5d8ddf34139a)
 
 >> TRUNC
 >> 
@@ -444,6 +449,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘙𝘜𝘕𝘊(𝘯𝘶𝘮𝘣𝘦𝘳, [𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴])
+>> ![TRUNC](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d343d793-03ff-4fe4-809b-43c026db5a36)
 
 ### 𝐂. 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
