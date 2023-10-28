@@ -169,7 +169,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘉𝘚(𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![ABS](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/67864e51-1c84-4402-ae69-dc6ba9762f2a)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/67864e51-1c84-4402-ae69-dc6ba9762f2a">
+</p>
+
 
   B.2. SIGN
 
