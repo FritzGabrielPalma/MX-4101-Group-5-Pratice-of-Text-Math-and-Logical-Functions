@@ -1,4 +1,4 @@
-# 𝐌𝐗-𝟒𝟏𝟎𝟏-𝐆𝐫𝐨𝐮𝐩-𝟓-𝐏𝐫𝐚𝐭𝐢𝐜𝐞-𝐨𝐟-𝐓𝐞𝐱𝐭-𝐌𝐚𝐭𝐡-𝐚𝐧𝐝-𝐋𝐨𝐠𝐢𝐜𝐚𝐥-𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+![COUNT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/13908ccc-e7bd-42e9-9f96-4245c8694970)# 𝐌𝐗-𝟒𝟏𝟎𝟏-𝐆𝐫𝐨𝐮𝐩-𝟓-𝐏𝐫𝐚𝐭𝐢𝐜𝐞-𝐨𝐟-𝐓𝐞𝐱𝐭-𝐌𝐚𝐭𝐡-𝐚𝐧𝐝-𝐋𝐨𝐠𝐢𝐜𝐚𝐥-𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
 Basic Text, Math, and Logical Functions are highlighted in this section along with information on how to utilize and manipulate them in Microsoft Excel. Every definition of a function includes a reference to its syntax.
@@ -277,6 +277,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛(𝘷𝘢𝘭𝘶𝘦1, 𝘷𝘢𝘭𝘶𝘦2, …)
+> ![COUNT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/3ccf5fbb-fa81-47a2-bbd8-1130d4801adc)
 
   B.12. COUNTA
 
@@ -287,6 +288,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛𝘈(𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2], …)
+> ![COUNTA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8787c347-1040-4ca1-8c14-fb90e82bff30)
 
   B.13. COUNTBLANK
 
@@ -299,6 +301,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛𝘉𝘓𝘈𝘕𝘒(𝘳𝘢𝘯𝘨𝘦)
+> ![COUNTBLANK](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a5fcfcdb-b007-40c1-974b-ab237e25094a)
 
   B.14. MIN & MAX
 
@@ -311,6 +314,7 @@ Usage Scenarios:
     =𝘔𝘐𝘕(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
 
     =𝘔𝘈𝘟(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![MIN MAX](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c594e629-bc9b-40c6-914e-fc4854b128a4)
 
   B.15. SUM
   
@@ -320,10 +324,10 @@ Usage Scenarios:
 >
 > Note: SUM can handle up to 255 individual arguments
 
-
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘜𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![SUM](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/4a74a70d-9c83-4e83-9a9f-65e0165ef782)
 
   B.16. MEDIAN
 
@@ -340,6 +344,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘌𝘋𝘐𝘈𝘕(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![MEDIAN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8d3c5d25-9abb-4cc5-9215-f6d23fd19207)
 
   B.17. LARGE
 
@@ -350,6 +355,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘈𝘙𝘎𝘌(𝘢𝘳𝘳𝘢𝘺, 𝘬)
+> ![LARGE](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c9a1f4a6-a72e-4e88-b70a-85dcd85fb2cf)
 
   B.18. SMALL
 
@@ -360,6 +366,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘔𝘈𝘓𝘓(𝘢𝘳𝘳𝘢𝘺, 𝘬)
+> ![SMALL](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e66533f8-a906-4729-85c6-ef2ffb72d9eb)
 
   B.19. PRODUCT
 
@@ -372,6 +379,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘗𝘙𝘖𝘋𝘜𝘊𝘛(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![PRODUCT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/43adb2a8-1cd6-4ff4-9e37-2f3bc3b5149c)
 
   B.20. SUBTOTAL
 
@@ -382,6 +390,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘜𝘉𝘛𝘖𝘛𝘈𝘓(𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯_𝘯𝘶𝘮, 𝘳𝘦𝘧1, …)
+> ![SUBTOTAL](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d3b1a218-e608-436a-b362-afbcdadda106)
 
   B.21. CEILING & FLOOR
   
