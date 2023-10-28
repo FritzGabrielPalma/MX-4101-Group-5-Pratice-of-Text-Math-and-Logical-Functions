@@ -213,6 +213,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘗𝘖𝘞𝘌𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘱𝘰𝘸𝘦𝘳)
+> ![POWER](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/006411e4-c607-495f-a4d4-459cf443a9d4)
 
   B.6. SQRT
 
@@ -223,6 +224,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘘𝘙𝘛(𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![SQRT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e438ac6c-3865-4409-b87f-6c3ca48d8e6c)
 
   B.7. QUOTIENT
 
@@ -231,6 +233,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘘𝘜𝘖𝘛𝘐𝘌𝘕𝘛(𝘯𝘶𝘮𝘦𝘳𝘢𝘵𝘰𝘳, 𝘥𝘦𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘰𝘳)
+> ![QUOTIENT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fd64aa14-7292-443a-be10-65f5c0d1bdaf)
 
   B.8. MOD
 
@@ -243,6 +246,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘖𝘋(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘥𝘪𝘷𝘪𝘴𝘰𝘳)
+> ![MOD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ad2d1ac1-9d5c-4229-9daf-bc96664faf50)
 
   B.9. AVERAGE
 
@@ -253,6 +257,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![AGGREGATE - AVERAGE](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/bff06b4a-e27a-4cfa-8836-08198cb0bf6a)
 
   B.10. AVERAGE w/ criteria
 
@@ -261,6 +266,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌𝘐𝘍𝘚(𝘢𝘷𝘦𝘳𝘢𝘨𝘦_𝘳𝘢𝘯𝘨𝘦, [𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢_𝘳𝘢𝘯𝘨𝘦1, 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢1, …)
+> ![AVERAGE WITH CRITERIA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/019aa37f-9fe3-46da-bf1d-eaa323d53ca7)
 
   B.11. COUNT
   
