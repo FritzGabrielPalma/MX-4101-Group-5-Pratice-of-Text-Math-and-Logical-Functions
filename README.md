@@ -169,6 +169,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘉𝘚(𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![ABS](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/67864e51-1c84-4402-ae69-dc6ba9762f2a)
 
   B.2. SIGN
 
@@ -183,6 +184,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘐𝘎𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![SIGN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/be2c573d-34fb-46af-a1f1-9c6e56ea3c1e)
 
   B.3. GCD
 
@@ -193,6 +195,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘎𝘊𝘋(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![GCD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8ffae566-f28e-434d-ab0f-e8344bf9819b)
 
   B.4. LCM
 
@@ -203,6 +206,7 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘊𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+> ![LCM](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e9161f74-b249-44ff-bd08-ec26b93b9150)
 
   B.5. POWER
 
