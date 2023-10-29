@@ -22,6 +22,10 @@ Usage Scenarios:
   𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘓𝘌𝘕( 𝘵𝘦𝘹𝘵)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/1a911ef5-ef6e-4f1c-93b4-eba8f45df324">
+</p>
+
 
   A.2. TRIM
   
@@ -30,7 +34,11 @@ Usage Scenarios:
   𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘛𝘙𝘐𝘔( 𝘵𝘦𝘹𝘵)
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fac8a1c4-cb0b-4c66-8948-127d94f61ef4">
+</p>
+
+
   A.3. UPPER
 
 >  The Microsoft Excel UPPER function allows you to convert text to all uppercase.
@@ -38,7 +46,11 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fc91e1fc-d03e-4dc4-a3f1-1565110f6c38">
+</p>
+
+
   A.4. LOWER
 
  > The Microsoft Excel UPPER function allows you to convert text to all lowercase.
@@ -46,7 +58,12 @@ Usage Scenarios:
   𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/bbe051ba-ede4-462b-9283-73bf37cee0a3">
+</p>
+
+
+
   A.5. PROPER
 
 >  The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
@@ -54,7 +71,11 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
      = 𝘗𝘙𝘖𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
-   
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ced9447e-3f83-4ace-ba8c-3568a8c47fd1">
+</p>
+
+
   A.6. SUBSTITUTE
 
 >  The Microsoft Excel SUBSTITUTE function replaces one set of characters with another.
@@ -62,9 +83,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
      =𝘚𝘜𝘉𝘚𝘛𝘐𝘛𝘜𝘛𝘌(𝘵𝘦𝘹𝘵,𝘰𝘭𝘥_𝘵𝘦𝘹𝘵,𝘯𝘦𝘸_𝘵𝘦𝘹𝘵, [𝘯𝘵𝘩_𝘢𝘱𝘱𝘦𝘢𝘳𝘢𝘯𝘤𝘦])
-   
-  Parameters
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/22679415-30ad-4693-aec5-a78d5bb4823c">
+</p>
+
+
+> Parameters
+> 
 >  -> text - The original string to use to perform the substitution
 >
 > -> old_text - The existing characters to replace
@@ -80,9 +105,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
    
      =𝘙𝘌𝘗𝘓𝘈𝘊𝘌( 𝘰𝘭𝘥_𝘵𝘦𝘹𝘵, 𝘴𝘵𝘢𝘳𝘵, 𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘴, 𝘯𝘦𝘸_𝘵𝘦𝘹𝘵 )
-   
-  Parameters
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ecb5e0a0-d18d-4322-bfb8-4e3bd79daed5">
+</p>
+
+
+> Parameters
+> 
 > -> old_ text - The original string value.
 >
 > -> start - The position in old_text to begin replacing characters.
@@ -99,9 +128,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
   
      =𝘍𝘐𝘕𝘋(𝘴𝘶𝘣𝘴𝘵𝘳𝘪𝘯𝘨,𝘴𝘵𝘳𝘪𝘯𝘨,[𝘴𝘵𝘢𝘳𝘵_𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯))
-   
-  Parameters
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fe3b16aa-0996-4174-a2b5-ed84f86281dd">
+</p>
+
+
+> Parameters
+> 
 >  ->  substring - The substring that you want to find
 >
 > -> string - The string to search within.
@@ -115,9 +148,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
      =𝘓𝘌𝘍𝘛(𝘵𝘦𝘹𝘵,[𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴])
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/00d3e9e3-929e-4072-b8c5-ca59280403d6">
+</p>
 
-  Parameters
- 
+
+> Parameters
+> 
 >  -> text - The string that you wish to extract from.
 >
 > -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character, If this parameter is omitted, only 1 character is returned.
@@ -129,9 +166,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘐𝘎𝘏𝘛(𝘵𝘦𝘹𝘵,[𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴])
-  
-  Parameters
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a3408132-f755-4c12-ac5a-c3028052ca8c">
+</p>
+
+
+> Parameters
+> 
 >  -> text - The string that you wish to extract from.
 >
 > -> number_of_characters - Optional. It indicates the number of characters that you wish to extract starting from the leftmost character. If this parameter is omitted, only 1 character is returned
@@ -143,9 +184,13 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
      =𝘔𝘐𝘋(𝘵𝘦𝘹𝘵,𝘴𝘵𝘢𝘳𝘵_𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯,𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴)
-   
-   Parameters
-  
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/be83f7b1-c933-4bbf-a817-ecf152ef1bbe">
+</p>
+
+
+> Parameters
+> 
 >  -> text - The string that you wish to extract from.
 >
 > -> start_position - The position in the string that you will begin extracting from. The first position in the string is 1.
@@ -159,7 +204,11 @@ Usage Scenarios:
    𝑺𝒚𝒏𝒕𝒂𝒙
 
      =𝘊𝘖𝘕𝘊𝘈𝘛𝘌𝘕𝘈𝘛𝘌(𝘵𝘦𝘹𝘵1, [𝘵𝘦𝘹𝘵2, … 𝘵𝘦𝘹𝘵_𝘯])
-   
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/65b0fd9c-d2ef-4ffb-a524-030532abab9c">
+</p>
+
+
 ### 𝐁. 𝐌𝐀𝐓𝐇 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
   B.1. ABS
