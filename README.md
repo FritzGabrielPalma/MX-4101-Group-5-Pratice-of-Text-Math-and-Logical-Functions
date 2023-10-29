@@ -372,7 +372,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘜𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![SUM](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/4a74a70d-9c83-4e83-9a9f-65e0165ef782)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/4a74a70d-9c83-4e83-9a9f-65e0165ef782">
+</p>
+
 
   B.16. MEDIAN
 
@@ -389,7 +392,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘌𝘋𝘐𝘈𝘕(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![MEDIAN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8d3c5d25-9abb-4cc5-9215-f6d23fd19207)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8d3c5d25-9abb-4cc5-9215-f6d23fd19207">
+</p>
+
 
   B.17. LARGE
 
@@ -400,7 +406,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘈𝘙𝘎𝘌(𝘢𝘳𝘳𝘢𝘺, 𝘬)
-> ![LARGE](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c9a1f4a6-a72e-4e88-b70a-85dcd85fb2cf)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c9a1f4a6-a72e-4e88-b70a-85dcd85fb2cf">
+</p>
 
   B.18. SMALL
 
@@ -411,7 +419,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘔𝘈𝘓𝘓(𝘢𝘳𝘳𝘢𝘺, 𝘬)
-> ![SMALL](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e66533f8-a906-4729-85c6-ef2ffb72d9eb)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e66533f8-a906-4729-85c6-ef2ffb72d9eb">
+</p>
 
   B.19. PRODUCT
 
@@ -424,7 +434,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘗𝘙𝘖𝘋𝘜𝘊𝘛(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![PRODUCT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/43adb2a8-1cd6-4ff4-9e37-2f3bc3b5149c)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/43adb2a8-1cd6-4ff4-9e37-2f3bc3b5149c">
+</p>
+
 
   B.20. SUBTOTAL
 
@@ -435,7 +448,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘜𝘉𝘛𝘖𝘛𝘈𝘓(𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯_𝘯𝘶𝘮, 𝘳𝘦𝘧1, …)
-> ![SUBTOTAL](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d3b1a218-e608-436a-b362-afbcdadda106)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d3b1a218-e608-436a-b362-afbcdadda106">
+</p>
+
 
   B.21. CEILING & FLOOR
   
@@ -448,7 +464,9 @@ Usage Scenarios:
     =𝘍𝘓𝘖𝘖𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘯𝘤𝘦)
 
     =𝘊𝘌𝘐𝘓𝘐𝘕𝘎(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘯𝘤𝘦)
-> ![CEILING AND FLOOR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/45ac9fad-c9cb-4491-ab2c-1d016d755272)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/45ac9fad-c9cb-4491-ab2c-1d016d755272">
+</p>
 
   B.22. EVEN & ODD
 > EVEN  
@@ -459,7 +477,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘝𝘌𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![EVEN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/88f098bc-15f8-4486-8645-a287f1e5eb3b)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/88f098bc-15f8-4486-8645-a287f1e5eb3b">
+</p>
 
 > ODD
 > -> The Excel ODD function returns the next odd integer after rounding a given number up.
@@ -469,7 +489,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘖𝘋𝘋(𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![ODD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/f4cffd2f-1971-4932-ba1f-1b767b30aa26)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/f4cffd2f-1971-4932-ba1f-1b767b30aa26">
+</p>
 
   B.23. ROUND & TRUNC
 >> ROUND
@@ -481,7 +503,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘖𝘜𝘕𝘋(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴)
->> ![ROUND](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8edaa066-357d-45eb-9a83-5d8ddf34139a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8edaa066-357d-45eb-9a83-5d8ddf34139a">
+</p>
+
 
 >> TRUNC
 >> 
@@ -494,7 +519,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘙𝘜𝘕𝘊(𝘯𝘶𝘮𝘣𝘦𝘳, [𝘯𝘶𝘮_𝘥𝘪𝘨𝘧𝘪𝘵𝘴])
->> ![TRUNC](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d343d793-03ff-4fe4-809b-43c026db5a36)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/d343d793-03ff-4fe4-809b-43c026db5a36">
+</p>
+
 
 ### 𝐂. 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
@@ -511,16 +539,21 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
-> ![IF](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ab41a034-6afc-49be-9166-91fef2980a83)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ab41a034-6afc-49be-9166-91fef2980a83">
+</p>
+
 
   C.2. AND
 
-> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
+> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else returns FALSE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
-> ![AND](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/2ef230d3-cbce-4dd0-b39e-f54d231327ed)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/2ef230d3-cbce-4dd0-b39e-f54d231327ed">
+</p>
 
   C.3. OR
 
@@ -529,7 +562,10 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
-> ![OR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/adcb0551-388c-4008-85ee-20a2e95c326e)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/adcb0551-388c-4008-85ee-20a2e95c326e">
+</p>
+
 
   C.4. NOT
 
@@ -538,7 +574,10 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘕𝘖𝘛(𝘭𝘰𝘨𝘪𝘤𝘢𝘭)
-> ![NOT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/792b0647-8487-466a-b8fd-087687d558c9)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/792b0647-8487-466a-b8fd-087687d558c9">
+</p>
+
 
   C.5. XOR
 
@@ -549,7 +588,9 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
-> ![XOR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a2241e27-4df3-4244-8789-e0090027a5fe)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a2241e27-4df3-4244-8789-e0090027a5fe">
+</p>
 
   C.6. ISBLABK
 
@@ -558,7 +599,10 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
-> ![ISBLANK](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/351376d3-5b55-4bd5-b574-a7d7f8d4856e)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/351376d3-5b55-4bd5-b574-a7d7f8d4856e">
+</p>
+
 
   C.7. IFERROR
 
@@ -569,7 +613,10 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘍𝘌𝘙𝘙𝘖𝘙 (𝘷𝘢𝘭𝘶𝘦, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘦𝘳𝘳𝘰𝘳) 
-> ![IFERROR](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/12a0b988-1905-4522-bbba-1b86d71e0a7f)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/12a0b988-1905-4522-bbba-1b86d71e0a7f">
+</p>
+
 
   C.8. IFNA
 
@@ -578,6 +625,9 @@ Most, if not all, logical functions check a condition and render a result.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘐𝘍𝘕𝘈(𝘷𝘢𝘭𝘶𝘦, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘯𝘢)  
-> ![IFNA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/6b3d038d-10b4-4969-a8a1-ac34d6fb2a5b)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/6b3d038d-10b4-4969-a8a1-ac34d6fb2a5b">
+</p>
+
 
 
