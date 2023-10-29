@@ -187,7 +187,11 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘐𝘎𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![SIGN](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/be2c573d-34fb-46af-a1f1-9c6e56ea3c1e)
+
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/be2c573d-34fb-46af-a1f1-9c6e56ea3c1e">
+</p>
+
 
   B.3. GCD
 
@@ -198,7 +202,11 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘎𝘊𝘋(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![GCD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8ffae566-f28e-434d-ab0f-e8344bf9819b)
+
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8ffae566-f28e-434d-ab0f-e8344bf9819b">
+</p>
+
 
   B.4. LCM
 
@@ -209,7 +217,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘊𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![LCM](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e9161f74-b249-44ff-bd08-ec26b93b9150)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e9161f74-b249-44ff-bd08-ec26b93b9150">
+</p>
 
   B.5. POWER
 
@@ -220,7 +230,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘗𝘖𝘞𝘌𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘱𝘰𝘸𝘦𝘳)
-> ![POWER](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/006411e4-c607-495f-a4d4-459cf443a9d4)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/006411e4-c607-495f-a4d4-459cf443a9d4">
+</p>
+
 
   B.6. SQRT
 
@@ -231,7 +244,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘘𝘙𝘛(𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![SQRT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e438ac6c-3865-4409-b87f-6c3ca48d8e6c)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/e438ac6c-3865-4409-b87f-6c3ca48d8e6c">
+</p>
+
 
   B.7. QUOTIENT
 
@@ -240,7 +256,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘘𝘜𝘖𝘛𝘐𝘌𝘕𝘛(𝘯𝘶𝘮𝘦𝘳𝘢𝘵𝘰𝘳, 𝘥𝘦𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘰𝘳)
-> ![QUOTIENT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fd64aa14-7292-443a-be10-65f5c0d1bdaf)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/fd64aa14-7292-443a-be10-65f5c0d1bdaf">
+</p>
 
   B.8. MOD
 
@@ -253,7 +271,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘖𝘋(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘥𝘪𝘷𝘪𝘴𝘰𝘳)
-> ![MOD](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ad2d1ac1-9d5c-4229-9daf-bc96664faf50)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/ad2d1ac1-9d5c-4229-9daf-bc96664faf50">
+</p>
+
 
   B.9. AVERAGE
 
@@ -264,7 +285,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![AGGREGATE - AVERAGE](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/bff06b4a-e27a-4cfa-8836-08198cb0bf6a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/bff06b4a-e27a-4cfa-8836-08198cb0bf6a">
+</p>
+
 
   B.10. AVERAGE w/ criteria
 
@@ -273,7 +297,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌𝘐𝘍𝘚(𝘢𝘷𝘦𝘳𝘢𝘨𝘦_𝘳𝘢𝘯𝘨𝘦, [𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢_𝘳𝘢𝘯𝘨𝘦1, 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢1, …)
-> ![AVERAGE WITH CRITERIA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/019aa37f-9fe3-46da-bf1d-eaa323d53ca7)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/019aa37f-9fe3-46da-bf1d-eaa323d53ca7">
+</p>
+
 
   B.11. COUNT
   
@@ -284,7 +311,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛(𝘷𝘢𝘭𝘶𝘦1, 𝘷𝘢𝘭𝘶𝘦2, …)
-> ![COUNT](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/3ccf5fbb-fa81-47a2-bbd8-1130d4801adc)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/3ccf5fbb-fa81-47a2-bbd8-1130d4801adc">
+</p>
+
 
   B.12. COUNTA
 
@@ -295,7 +325,10 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛𝘈(𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2], …)
-> ![COUNTA](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8787c347-1040-4ca1-8c14-fb90e82bff30)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/8787c347-1040-4ca1-8c14-fb90e82bff30">
+</p>
+
 
   B.13. COUNTBLANK
 
@@ -308,7 +341,9 @@ Usage Scenarios:
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘜𝘕𝘛𝘉𝘓𝘈𝘕𝘒(𝘳𝘢𝘯𝘨𝘦)
-> ![COUNTBLANK](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a5fcfcdb-b007-40c1-974b-ab237e25094a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/a5fcfcdb-b007-40c1-974b-ab237e25094a">
+</p>
 
   B.14. MIN & MAX
 
@@ -321,7 +356,10 @@ Usage Scenarios:
     =𝘔𝘐𝘕(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
 
     =𝘔𝘈𝘟(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-> ![MIN MAX](https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c594e629-bc9b-40c6-914e-fc4854b128a4)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101-Group-5-Pratice-of-Text-Math-and-Logical-Functions/assets/143807174/c594e629-bc9b-40c6-914e-fc4854b128a4">
+</p>
+
 
   B.15. SUM
   
